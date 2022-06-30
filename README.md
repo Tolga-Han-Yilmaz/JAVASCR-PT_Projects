@@ -61,5 +61,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Guess_The_Number/" target="_blank">App Details</td>
       <td><img src="./img/7-guess.gif" alt="guess the number" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >8.</td>
+      <td>To Do List</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Todo_basic" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Todo_basic/" target="_blank">App Details</td>
+      <td><img src="./img/8-todo.gif" alt="todo" height="175px"></td>
+    </tr>
   </tbody>
 </table>
