@@ -54,5 +54,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Background_Change/" target="_blank">App Details</td>
       <td><img src="./img/6-background.gif" alt="background" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >7.</td>
+      <td>Guess The Number</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Guess_The_Number" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Guess_The_Number/" target="_blank">App Details</td>
+      <td><img src="./img/7-guess.gif" alt="guess the number" height="175px"></td>
+    </tr>
   </tbody>
 </table>
