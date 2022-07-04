@@ -89,5 +89,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/To_Do_List_Project/" target="_blank">App Details</td>
       <td><img src="./img/11-todo2.gif" alt="todo" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >12.</td>
+      <td>Movie Adding</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Movie_Adding_Project" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Movie_Adding_Project/" target="_blank">App Details</td>
+      <td><img src="./img/12-movie.gif" alt="movie" height="175px"></td>
+    </tr>
   </tbody>
 </table>
