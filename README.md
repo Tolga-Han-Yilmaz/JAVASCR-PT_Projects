@@ -75,5 +75,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Checkout_Form/" target="_blank">App Details</td>
       <td><img src="./img/9-checkout.gif" alt="checkout" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >10.</td>
+      <td>IOS Calculator</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Project_IOS_Calculator" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Project_IOS_Calculator/" target="_blank">App Details</td>
+      <td><img src="./img/10-ios.gif" alt="ios" height="175px"></td>
+    </tr>
   </tbody>
 </table>
