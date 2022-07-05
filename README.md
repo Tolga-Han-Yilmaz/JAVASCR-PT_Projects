@@ -96,5 +96,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Movie_Adding_Project/" target="_blank">App Details</td>
       <td><img src="./img/12-movie.gif" alt="movie" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >13.</td>
+      <td>Credit Calculation</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Credit_Calculation" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Credit_Calculation/" target="_blank">App Details</td>
+      <td><img src="./img/13-credit.gif" alt="credit" height="175px"></td>
+    </tr>
   </tbody>
 </table>
