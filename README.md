@@ -110,5 +110,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Random_User/" target="_blank">App Details</td>
       <td><img src="./img/14-random.gif" alt="random" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >15.</td>
+      <td>Weather App</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Weather_App" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Weather_App/" target="_blank">App Details</td>
+      <td><img src="./img/15-weather.png" alt="weather" height="175px"></td>
+    </tr>
   </tbody>
 </table>
