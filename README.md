@@ -103,5 +103,12 @@ Javascripts Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Credit_Calculation/" target="_blank">App Details</td>
       <td><img src="./img/13-credit.gif" alt="credit" height="175px"></td>
     </tr>
+    <tr>
+      <td align=center >14.</td>
+      <td>Random User</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Random_User" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Random_User/" target="_blank">App Details</td>
+      <td><img src="./img/14-random.gif" alt="random" height="175px"></td>
+    </tr>
   </tbody>
 </table>
